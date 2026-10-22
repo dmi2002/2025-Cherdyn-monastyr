@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node19" apprev="18043">
+  <panorama id="node19" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-7.44" fov="98.8142" pan="-8.76"/>
+      <flyin projection="4" tilt="-7.44" fov="70" pan="-8.76"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ОБЩИЙ ВИД МОНАСТЫРЯ" datetime="12.06.21" nodeid="node19" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ОБЩИЙ ВИД МОНАСТЫРЯ" latitude="" source="" heading="0" tags="Air" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ВИД С КОЛОКОЛЬНИ" description="" url="{node16}" target="-30.0/6.0/110.0" skinid="up" tilt="-2.2" id="Point01" pan="-359.4"/>
+      <hotspot title="ПОГОСТ И ПАСЕКА" description="" url="{node18}" target="-1.4/17.5/85.0" skinid="up" tilt="-14.18" id="Point02" pan="-14.16"/>
+      <hotspot title=" АЛТАРЬ В ВЕРХНЕМ ХРАМЕ" description="" url="{node9}" target="0.0/-5.0/100.0" skinid="up" tilt="-11.76" id="Point03" pan="-357.07"/>
+      <hotspot title="АЛТАРЬ В НИЖНЕМ ХРАМЕ" description="" url="{node20}" target="-0.5/-5.0/100.0" skinid="up" tilt="-16.1" id="Point04" pan="-357.07"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-11.500" id="Element01" mode="3" nodechangekeep="0" startmutedmobile="0" pan="-359.440" level="0.200" loop="1" pansize="8.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Хвалите Имя Господне.mp3"/>
+      </sound>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.300" loop="0" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Utro_v_derevne.mp3"/>
+      </sound>
+      <lensflare alpha="100.000" type="2" blinding="0.000" tilt="39.650" id="Lensflare01" color="0xffffff" pan="-247.240"/>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="17.51" fov="113.568" pan="-1.36"/>
+      <flyin projection="4" tilt="17.51" fov="100" pan="-1.36"/>
+      <min tilt="-60" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ПОГОСТ И ПАСЕКА" datetime="12.06.21" nodeid="node18" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ПОГОСТ И ПАСЕКА" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ПРИТВОР  В НИЖНЕМ ХРАМЕ" description="" url="{node3}" target="0.0/0.0/90.0" skinid="up" tilt="4.73" id="Point01" pan="-9.86"/>
+      <hotspot title="ПРИТВОР В ВЕРХНЕМ ХРАМЕ" description="" url="{node14}" target="0.6/0.0/90.0" skinid="up" tilt="26" id="Point02" pan="-9.43"/>
+      <hotspot title="ВИД С КОЛОКОЛЬНИ" description="" url="{node16}" target="-30.0/6.0/110.0" skinid="up" tilt="44.47" id="Point03" pan="-0.81"/>
+      <hotspot title="ОБЩИЙ ВИД МОНАСТЫРЯ" description="" url="{node19}" target="-18.0/-10.0/90" skinid="up_air" tilt="33.94" id="Point04" pan="-307.2"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="19.130" id="Element01" mode="3" nodechangekeep="0" startmutedmobile="0" pan="-359.460" level="0.300" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Хвалите Имя Господне.mp3"/>
+      </sound>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.400" loop="0" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Utro_v_derevne.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="-1" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="6" fov="134.423" pan="-30"/>
+      <flyin projection="4" tilt="6" fov="110" pan="-30"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ВИД С КОЛОКОЛЬНИ" datetime="12.06.21" nodeid="node16" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ВИД С КОЛОКОЛЬНИ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ОБЩИЙ ВИД МОНАСТЫРЯ" description="" url="{node19}" target="-18.0/-10.0/90" skinid="up_air" tilt="22.01" id="Point01" pan="-210.31"/>
+      <hotspot title="ВЕРХНИЙ ХРАМ" description="" url="{node4}" target="1.7/10.0/110.0" skinid="up" tilt="-41.45" id="Point02" pan="-36.87"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-72.520" id="Element01" mode="3" nodechangekeep="0" startmutedmobile="0" pan="-37.130" level="0.300" loop="1" pansize="20.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Хвалите Имя Господне.mp3"/>
+      </sound>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.300" loop="0" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/Utro_v_derevne.mp3"/>
+      </sound>
+      <lensflare alpha="100.000" type="4" blinding="30.000" tilt="4.040" id="Lensflare01" color="0xffffff" pan="-90.020"/>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-5" fov="126.553" pan="1.68"/>
+      <flyin projection="4" tilt="-5" fov="100" pan="1.68"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ПРЕСТОЛ В АЛТАРЕ В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node9" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ПРЕСТОЛ В АЛТАРЕ В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ОБЩИЙ ВИД МОНАСТЫРЯ" description="" url="{node19}" target="-18.0/-10.0/90" skinid="up_air" tilt="12.62" id="Point01" pan="-313.78"/>
+      <hotspot title="АМВОН" description="" url="{node7}" target="178.4/-0.5/90.0" skinid="up" tilt="0" id="Point02" pan="-176.24"/>
+      <hotspot title="АЛТАРЬ" description="" url="{node10}" target="-14.1/-15.2/97.4" skinid="up" tilt="-23.66" id="Point03" pan="-54.01"/>
+      <hotspot title="ЖЕРТВЕННИК В АЛТАРЕ" description="" url="{node8}" target="70.8/-13.8/97.8" skinid="up" tilt="-22.09" id="Point04" pan="-295.28"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.600" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-5" fov="126.553" pan="179"/>
+      <flyin projection="4" tilt="-5" fov="100" pan="179"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ГОРНЕЕ МЕСТО В АЛТАРЕ" datetime="12.06.21" nodeid="node11" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ГОРНЕЕ МЕСТО В АЛТАРЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="АЛТАРЬ" description="" url="{node10}" target="5.3/-11.9/97.8" skinid="up" tilt="-22.47" id="Point01" pan="-315.56"/>
+      <hotspot title="ЖЕРТВЕННИК В АЛТАРЕ" description="" url="{node8}" target="72.8/-11.3/97.4" skinid="up" tilt="-20.91" id="Point02" pan="-53.3"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.600" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-20.06" fov="134.423" pan="72.69"/>
+      <flyin projection="4" tilt="-20.06" fov="110" pan="72.69"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ЖЕРТВЕННИК В АЛТАРЕ В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node8" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ЖЕРТВЕННИК В АЛТАРЕ В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ГОРНЕЕ МЕСТО В АЛТАРЕ" description="" url="{node11}" target="151.7/-13.7/100.0" skinid="up" tilt="-22.97" id="Point01" pan="-320.27"/>
+      <hotspot title="ПРЕСТОЛ В АЛТАРЕ" description="" url="{node9}" target="1.7/-5.0/100.0" skinid="up" tilt="-23.43" id="Point02" pan="-22.83"/>
+      <hotspot title="ПРИДЕЛ В ВЕРХНЕМ ХРАМЕ" description="" url="{node5}" target="0.0/0.0/110.0" skinid="up" tilt="0" id="Point03" pan="-89.38"/>
+      <hotspot title="ОБЩИЙ ВИД МОНАСТЫРЯ" description="" url="{node19}" target="-18.0/-10.0/60.0" skinid="up_air" tilt="11.9" id="Point04" pan="-236.02"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.600" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-3" fov="134.423" pan="-14.94"/>
+      <flyin projection="4" tilt="-11.1" fov="110" pan="-14.94"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="АЛТАРЬ В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node10" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="АЛТАРЬ В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ГОРНЕЕ МЕСТО В АЛТАРЕ" description="" url="{node11}" target="-143.0/-9.7/100.0" skinid="up" tilt="-26.48" id="Point01" pan="-19.4"/>
+      <hotspot title="ПРЕСТОЛ В АЛТАРЕ" description="" url="{node9}" target="1.7/-5.0/100.0" skinid="up" tilt="-29.17" id="Point02" pan="-292.21"/>
+      <hotspot title="ПРИДЕЛ В ВЕРХНЕМ ХРАМЕ" description="" url="{node6}" target="0.0/0.0/110.0" skinid="up" tilt="-2.44" id="Point03" pan="-217.57"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.600" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="-1" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-3.05" fov="118.072" pan="180"/>
+      <flyin projection="4" tilt="-3.05" fov="90" pan="180"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="АМВОН В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node7" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="АМВОН В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="АНАЛОЙ" description="" url="{node4}" target="1.7/10.0/110.0" skinid="up" tilt="-15.88" id="Point01" pan="-180.01"/>
+      <hotspot title="ПРЕСТОЛ В АЛТАРЕ" description="" url="{node9}" target="1.7/-5.0/100.0" skinid="up" tilt="0" id="Point02" pan="-3.46"/>
+      <hotspot title="ЖЕРТВЕННИК В АЛТАРЕ" description="" url="{node8}" target="77.6/-10.0/90.0" skinid="up" tilt="-1.69" id="Point03" pan="-303.52"/>
+      <hotspot title="АЛТАРЬ" description="" url="{node10}" target="18.8/-7.2/90.0" skinid="up" tilt="0" id="Point04" pan="-61.17"/>
+      <hotspot title="ПРИДЕЛ" description="" url="{node5}" target="0.0/0.0/110.0" skinid="up" tilt="-25" id="Point05" pan="-230.07"/>
+      <hotspot title="ПРИДЕЛ" description="" url="{node6}" target="0.0/0.0/110.0" skinid="up" tilt="-25" id="Point06" pan="-130.03"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="1.000" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbias="0.400" levelingpitch="-0.173246" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0.195458" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="10" fov="134.423" pan="1.67"/>
+      <flyin projection="4" tilt="10" fov="110" pan="1.67"/>
+      <min tilt="-60" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="АНАЛОЙ В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node4" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="АНАЛОЙ В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ЖЕРТВЕННИК В АЛТАРЕ" description="" url="{node8}" target="77.2/-11.3/90.0" skinid="up" tilt="0" id="Point01" pan="-329.63"/>
+      <hotspot title="АМВОН" description="" url="{node7}" target="-1.9/38.9/105.8" skinid="up" tilt="-4.02" id="Point02" pan="-358.18"/>
+      <hotspot title="АЛТАРЬ" description="" url="{node10}" target="10.2/-9.9/90.0" skinid="up" tilt="0" id="Point03" pan="-25.78"/>
+      <hotspot title="ПРИТВОР В ВЕРХНЕМ ХРАМЕ" description="" url="{node12}" target="2.1/9.3/90.0" skinid="up" tilt="-18" id="Point04" pan="-177.23"/>
+      <hotspot title="ПРАВЫЙ ПРИДЕЛ" description="" url="{node6}" target="0.0/0.0/110.0" skinid="up" tilt="-22.71" id="Point05" pan="-64.3"/>
+      <hotspot title="ЛЕВЫЙ ПРИДЕЛ" description="" url="{node5}" target="0.0/0.0/110.0" skinid="up" tilt="-24.12" id="Point06" pan="-299.47"/>
+      <hotspot title="ЛАВКА В ВЕРХНЕМ ХРАМЕ" description="" url="{node13}" target="141.5/-1.2/90.0" skinid="up" tilt="-11.19" id="Point07" pan="-159.87"/>
+      <hotspot title="ПРИТВОР В ВЕРХНЕМ ХРАМЕ" description="" url="{node14}" target="137.2/1.5/90.0" skinid="up" tilt="-11.49" id="Point08" pan="-191.87"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="1.000" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="134.423" pan="0"/>
+      <flyin projection="4" tilt="0" fov="110" pan="0"/>
+      <min tilt="-70" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ПРИДЕЛ В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node5" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ПРИДЕЛ В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ПРЕСТОЛ В АЛТАРЕ" description="" url="{node9}" target="1.7/-5.0/100.0" skinid="up" tilt="1.08" id="Point01" pan="-357.74"/>
+      <hotspot title="ЖЕРТВЕННИК В АЛТАРЕ" description="" url="{node8}" target="61.8/-16.6/105.8" skinid="up" tilt="-2.56" id="Point02" pan="-321.65"/>
+      <hotspot title="АНАЛОЙ" description="" url="{node4}" target="1.7/10.0/101.7" skinid="up" tilt="-31.32" id="Point03" pan="-84.38"/>
+      <hotspot title="АМВОН В ВЕРХНЕМ ХРАМЕ" description="" url="{node7}" target="-0.5/9.1/105.3" skinid="up" tilt="-20.12" id="Point05" pan="-10.18"/>
+      <hotspot title="ПРИДЕЛ В ВЕРХНЕМ ХРАМЕ" description="" url="{node6}" target="0.0/0.0/110.0" skinid="up" tilt="-15.65" id="Point06" pan="-62.43"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="1.000" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="134.423" pan="0"/>
+      <flyin projection="4" tilt="0" fov="110" pan="0"/>
+      <min tilt="-70" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ПРИДЕЛ В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node6" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ПРИДЕЛ В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="АМВОН В ВЕРХНЕМ ХРАМЕ" description="" url="{node7}" target="-1.2/12.1/108.2" skinid="up" tilt="-19.37" id="Point01" pan="-344.19"/>
+      <hotspot title="АЛТАРЬ" description="" url="{node10}" target="4.8/-17.2/90.0" skinid="up" tilt="0" id="Point02" pan="-34.98"/>
+      <hotspot title="АНАЛОЙ" description="" url="{node4}" target="1.7/10.0/110.0" skinid="up" tilt="-30.14" id="Point03" pan="-273.02"/>
+      <hotspot title="ЛАВКА В ВЕРХНЕМ ХРАМЕ" description="" url="{node13}" target="-30.0/0.0/90.0" skinid="up" tilt="0" id="Point04" pan="-191.47"/>
+      <hotspot title="ЖЕРТВЕННИК В АЛТАРЕ" description="" url="{node8}" target="64.8/-15.0/90.0" skinid="up" tilt="0" id="Point05" pan="-336.71"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="1.000" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="118.072" pan="0"/>
+      <flyin projection="4" tilt="0" fov="90" pan="0"/>
+      <min tilt="-70" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ПРИТВОР В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node12" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ПРИТВОР В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="АНАЛОЙ" description="" url="{node4}" target="1.7/10.0/110.0" skinid="up" tilt="-13.38" id="Point01" pan="-359.22"/>
+      <hotspot title="ПРИДЕЛ" description="" url="{node6}" target="0.0/0.0/110.0" skinid="up" tilt="-3.87" id="Point02" pan="-37.43"/>
+      <hotspot title="ПРИДЕЛ" description="" url="{node5}" target="0.0/0.0/110.0" skinid="up" tilt="-3.95" id="Point03" pan="-319.17"/>
+      <hotspot title="ВЫХОД И ОБЩИЙ ВИД МОНАСТЫРЯ" description="" url="{node19}" target="-18.0/-10.0/60.0" skinid="up" tilt="0.26" id="Point04" pan="-177.79"/>
+      <hotspot title="ПРИТВОР" description="" url="{node14}" target="92.9/-0.4/90.0" skinid="up" tilt="-25.19" id="Point05" pan="-226.97"/>
+      <hotspot title="ЛАВКА В ВЕРХНЕМ ХРАМЕ" description="" url="{node13}" target="141.6/-0.8/90.0" skinid="up" tilt="-25.69" id="Point06" pan="-126.55"/>
+      <hotspot title="ВИД С КОЛОКОЛЬНИ" description="" url="{node16}" target="-30.0/6.0/110.0" skinid="up_air" tilt="64.48" id="Point07" pan="360"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.400" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="118.072" pan="-30"/>
+      <flyin projection="4" tilt="0" fov="90" pan="-30"/>
+      <min tilt="-70" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ЛАВКА В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node13" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ЛАВКА В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ПРИТВОР" description="" url="{node14}" target="91.5/3.8/90.0" skinid="up" tilt="-18.17" id="Point01" pan="-301.7"/>
+      <hotspot title="ПРИТВОР" description="" url="{node12}" target="0.0/0.0/90.0" skinid="up" tilt="-23.51" id="Point02" pan="-354.2"/>
+      <hotspot title="ПРИДЕЛ" description="" url="{node6}" target="0.0/0.0/110.0" skinid="up" tilt="-10.51" id="Point03" pan="-45.42"/>
+      <hotspot title="АНАЛОЙ" description="" url="{node4}" target="1.7/10.0/110.0" skinid="up" tilt="-8.3" id="Point04" pan="-17.74"/>
+      <hotspot title="ВИД С КОЛОКОЛЬНИ" description="" url="{node16}" target="-30.0/6.0/110.0" skinid="up_air" tilt="56.23" id="Point05" pan="-4.70999"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.400" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="118.072" pan="0.6"/>
+      <flyin projection="4" tilt="0" fov="90" pan="0.6"/>
+      <min tilt="-70" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ПРИТВОР В ВЕРХНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node14" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ПРИТВОР В ВЕРХНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ПРИДЕЛ" description="" url="{node5}" target="0.0/0.0/110.0" skinid="up" tilt="-8.16" id="Point01" pan="-347.34"/>
+      <hotspot title="ПРИТВОР" description="" url="{node12}" target="0.0/0.0/90.0" skinid="up" tilt="-23.31" id="Point02" pan="-31.62"/>
+      <hotspot title="ВИД С КОЛОКОЛЬНИ" description="" url="{node16}" target="-30.0/6.0/110.0" skinid="up_air" tilt="52.44" id="Point03" pan="-22.48"/>
+      <hotspot title="ВЫХОД И ОБЩИЙ ВИД МОНАСТЫРЯ" description="" url="{node19}" target="-18.0/-10.0/60.0" skinid="up_air" tilt="0" id="Point04" pan="-150.68"/>
+      <hotspot title="ЛАВКА В ВЕРХНЕМ ХРАМЕ" description="" url="{node13}" target="-124.5/-0.8/90.0" skinid="up" tilt="-18.56" id="Point05" pan="-85.09"/>
+      <hotspot title="АНАЛОЙ В ВЕРХНЕМ ХРАМЕ" description="" url="{node4}" target="1.7/10.0/110.0" skinid="up" tilt="-9.28" id="Point06" pan="-15.12"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.400" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelbias="0.400" levelingpitch="1" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="1" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="-5" fov="126.553" pan="-0.52"/>
+      <flyin projection="4" tilt="-5" fov="100" pan="-0.52"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="АЛТАРЬ В НИЖНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node20" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="АЛТАРЬ В НИЖНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ОБЩИЙ ВИД МОНАСТЫРЯ" description="" url="{node19}" target="-18.0/-10.0/90" skinid="up_air" tilt="13.87" id="Air" pan="-312.98"/>
+      <hotspot title="АМВОН" description="" url="{node1}" target="-178.6/-4.7/120.0" skinid="up" tilt="-6.2" id="amvon_Low" pan="-179.84"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.600" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="0" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="8" fov="126.553" pan="-0.2"/>
+      <flyin projection="4" tilt="8" fov="100" pan="-0.2"/>
+      <min tilt="-90" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="АМВОН В НИЖНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node1" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="АМВОН В НИЖНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="АНАЛОЙ" description="" url="{node2}" target="-1.0/0.0/90.0" skinid="up" tilt="-12.11" id="analoy_Low" pan="-177.77"/>
+      <hotspot title="АЛТАРЬ" description="" url="{node20}" target="-0.5/-5.0/100.0" skinid="up" tilt="0" id="altar_Low" pan="-0.54"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="1.000" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="1" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="118.072" pan="-1"/>
+      <flyin projection="4" tilt="5" fov="90" pan="-1"/>
+      <min tilt="-60" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="АНАЛОЙ В НИЖНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node2" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="АНАЛОЙ В НИЖНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="ПРИТВОР" description="" url="{node3}" target="0.0/0.0/90.0" skinid="up" tilt="-12.24" id="pritvor_Low" pan="-197.79"/>
+      <hotspot title="АМВОН В НИЖНЕМ ХРАМЕ" description="" url="{node1}" target="0.2/13.8/100.0" skinid="up" tilt="-3.83" id="amvon_Low" pan="-359.37"/>
+      <hotspot title="АЛТАРЬ В НИЖНЕМ ХРАМЕ" description="" url="{node20}" target="-0.5/-5.0/100.0" skinid="up" tilt="0" id="altar_Low" pan="-333.08"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="1.000" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" width="4000" leveltilesize="510" levelingroll="1" height="4000">
+      <level predecode="0" preload="0" width="4000" height="4000"/>
+      <level predecode="0" preload="0" width="2000" height="2000"/>
+      <level predecode="0" preload="0" width="1000" height="1000"/>
+      <level predecode="1" preload="1" width="500" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="118.072" pan="0"/>
+      <flyin projection="4" tilt="0" fov="90" pan="0"/>
+      <min tilt="-60" fovpixel="1" pan="0"/>
+      <max fovstereographic="270" tilt="90" fov="140" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata title="ПРИТВОР  В НИЖНЕМ ХРАМЕ" datetime="12.06.21" nodeid="node3" description="Чердынский Иоанно-Богословский&#xa;мужской монастырь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="ПРИТВОР  В НИЖНЕМ ХРАМЕ" latitude="" source="" heading="0" tags="" copyright="Copyright © Shardakov Dmitriy" info=""/>
+    <hotspots wordwrap="1" width="200" height="0">
+      <label background="1" wordwrap="1" textcolor="0xffaa00" bordercolor="0x594426" borderalpha="1" width="200" backgroundcolor="0x91713e" textalpha="1" borderradius="8" enabled="0" border="1" height="0" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot title="АНАЛОЙ" description="" url="{node2}" target="-1.0/0.0/90.0" skinid="up" tilt="-11.43" id="analoy_Low" pan="-19.03"/>
+      <hotspot title="ВЫХОД И ПЕРЕХОД В ВЕРХНИЙ ХРАМ" description="" url="{node12}" target="0.0/0.0/90.0" skinid="up" tilt="0" id="Exit_Low" pan="-157.73"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" tilt="-1.000" id="_background" mode="0" nodechangekeep="0" startmutedmobile="0" pan="-1.000" level="0.400" loop="1" pansize="10.000" field="90.000" ambientlevel="0.000">
+        <source url="media/combined.mp3"/>
+      </sound>
+      <sound url="media/skin_snd_legkiy-perehod-s-audio-na-titryi-39287.mp3" id="legkiy-perehod-s-audio-na-titryi-39287" mode="0" level="0.500" keep="1" loop="-1"/>
+    </media>
+    <transition zoomafterinfov="120" type="crossdissolve" zoomout="0" blendtime="0.3" zoomafteroutfov="20" softedge="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" enabled="1" zoomspeed="2" zoomfov="60"/>
+    <autorotate nodedelay="0.00" useanimation="0" returntohorizon="0.000" noderandom="0" speed="0.010" delay="5.00" startloaded="1" enabled="1" nodefilter=""/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextfullscreen="1" rubberband="1" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" invertcontrol="1" sensitivity="8" lockedkeyboard="0" lockedwheel="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="Чердынский Иоанно-Богословский мужской монастырь" datetime="12.06.2025 15:00" nodeid="master" description="Чердынский Иоанно-Богословский мужской монастырь ул. Мамина-Сибиряка, 17, Чердынь" longitude="" author="Шардаков Дмитрий +79028369404" comment="" customnodeid="Чердынский Иоанно-Богословский мужской монастырь" latitude="" source="" heading="0" tags="" copyright="Dmitriy Shardakov ©" info=""/>
+  </masternode>
+</tour>
